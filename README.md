@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neurok8050
+- 👋 Hi, I’m Claud
 - 👀 I’m interested in signal processing in psychophysiological signal and in neuroimaging
 - 🌱 I’m currently a master student in psychology and an undergraduate student in computer science both at University of Montreal
 - 💞️ I’m looking to collaborate on ...
