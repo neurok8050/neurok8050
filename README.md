@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Claudéric DeRoy
-- 👀 I’m interested in signal processing in psychophysiological signal and in neuroimaging
-- 🌱 I’m currently a master student in psychology and an undergraduate student in computer science both at University of Montreal
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in numerical algorithm in psychophysiological signal and in neuroimaging
+- 🌱 Academic journey :
+    - Bachelor degree in cognitive neuroscience completed in 2021 at Université de Montréal
+    - Completed a master degree in psychology at Université de Montréal under Sébastien Hétu supervision. The full master thesis is available [here](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/32728)
+    - Currently doing a bachelor in computer science at Université de Montréal
+- 💞️ Looking for a PhD in computer science focus on neuroimaging particularly numerical algorithm
 - 📫 How to reach me clauderic.deroy@umontreal.ca
 
 <!---
