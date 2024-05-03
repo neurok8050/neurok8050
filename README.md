@@ -2,6 +2,8 @@ Hi, I'm Claudéric DeRoy, a cognitive neuroscience and a bit of a computer scien
 
 Touch Rugby player 🏉 (Let's go East Canada!), home brewer🍺, music enthusiast🎵 and history nerd📜
 
+📫 You can contact me by [email](mailto:clauderic.deroy@umontreal.ca)
+
  **Academic** :
 
 - I completed a bachelor degree in cognitive neuroscience (2021)🧠
