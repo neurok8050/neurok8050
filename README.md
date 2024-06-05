@@ -1,4 +1,4 @@
-Hi, I'm Claudéric DeRoy, a cognitive neuroscience and a bit of a computer scientist from Montréal󠁱󠁣󠁿 🇨🇦
+Hi, I'm Claudéric DeRoy, a cognitive neuroscientist and a bit of a computer scientist from Montréal󠁱󠁣󠁿 🇨🇦
 
 Touch Rugby player 🏉 (Let's go East Canada!), home brewer🍺, music enthusiast🎵 and history nerd📜
 
